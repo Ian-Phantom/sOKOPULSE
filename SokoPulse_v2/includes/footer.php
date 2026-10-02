@@ -1,0 +1,1 @@
+<?php if(!empty($isAdminLogin)): ?></div></body></html><?php elseif(!empty($isAdmin)): ?></main></section></div></body></html><?php else: ?></main><footer><div class="wrap"><b>SokoPulse</b> — THANK YOU FOR CHOOSING SOKOPULSE.</div></footer></body></html><?php endif; ?>
